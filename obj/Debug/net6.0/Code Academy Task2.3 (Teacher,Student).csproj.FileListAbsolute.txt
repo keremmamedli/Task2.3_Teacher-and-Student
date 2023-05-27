@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task2.3 (Teacher,Student)\Code Academy Task2.3 (Teacher,Student)\bin\Debug\net6.0\Code Academy Task2.3 (Teacher,Student).exe
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task2.3 (Teacher,Student)\Code Academy Task2.3 (Teacher,Student)\bin\Debug\net6.0\Code Academy Task2.3 (Teacher,Student).deps.json
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task2.3 (Teacher,Student)\Code Academy Task2.3 (Teacher,Student)\bin\Debug\net6.0\Code Academy Task2.3 (Teacher,Student).runtimeconfig.json
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task2.3 (Teacher,Student)\Code Academy Task2.3 (Teacher,Student)\bin\Debug\net6.0\Code Academy Task2.3 (Teacher,Student).dll
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task2.3 (Teacher,Student)\Code Academy Task2.3 (Teacher,Student)\bin\Debug\net6.0\Code Academy Task2.3 (Teacher,Student).pdb
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task2.3 (Teacher,Student)\Code Academy Task2.3 (Teacher,Student)\obj\Debug\net6.0\Code Academy Task2.3 (Teacher,Student).csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task2.3 (Teacher,Student)\Code Academy Task2.3 (Teacher,Student)\obj\Debug\net6.0\Code Academy Task2.3 (Teacher,Student).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task2.3 (Teacher,Student)\Code Academy Task2.3 (Teacher,Student)\obj\Debug\net6.0\Code Academy Task2.3 (Teacher,Student).AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task2.3 (Teacher,Student)\Code Academy Task2.3 (Teacher,Student)\obj\Debug\net6.0\Code Academy Task2.3 (Teacher,Student).AssemblyInfo.cs
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task2.3 (Teacher,Student)\Code Academy Task2.3 (Teacher,Student)\obj\Debug\net6.0\Code Academy Task2.3 (Teacher,Student).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task2.3 (Teacher,Student)\Code Academy Task2.3 (Teacher,Student)\obj\Debug\net6.0\Code Academy Task2.3 (Teacher,Student).dll
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task2.3 (Teacher,Student)\Code Academy Task2.3 (Teacher,Student)\obj\Debug\net6.0\refint\Code Academy Task2.3 (Teacher,Student).dll
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task2.3 (Teacher,Student)\Code Academy Task2.3 (Teacher,Student)\obj\Debug\net6.0\Code Academy Task2.3 (Teacher,Student).pdb
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task2.3 (Teacher,Student)\Code Academy Task2.3 (Teacher,Student)\obj\Debug\net6.0\Code Academy Task2.3 (Teacher,Student).genruntimeconfig.cache
+C:\Users\user\Desktop\Code Academy Tasks\Code Academy Task2.3 (Teacher,Student)\Code Academy Task2.3 (Teacher,Student)\obj\Debug\net6.0\ref\Code Academy Task2.3 (Teacher,Student).dll
